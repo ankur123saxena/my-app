@@ -1,0 +1,27 @@
+/* CustomerDetail.css */
+
+/* Customer detail container styling */
+.customer-detail {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Heading styling */
+  .customer-detail h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  /* Detail item styling */
+  .customer-detail p {
+    margin-bottom: 10px;
+  }
+  
+  .customer-detail strong {
+    margin-right: 5px;
+  }
+  

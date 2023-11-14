@@ -1,0 +1,27 @@
+/* ProductDetail.css */
+
+/* Product detail container styling */
+.product-detail {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Heading styling */
+  .product-detail h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  /* Detail item styling */
+  .product-detail p {
+    margin-bottom: 10px;
+  }
+  
+  .product-detail strong {
+    margin-right: 5px;
+  }
+  
